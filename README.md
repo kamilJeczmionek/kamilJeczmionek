@@ -2,7 +2,7 @@
 
 ![Background Image](https://gist.github.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/06b3FMA.jpg)
 
-Hello there! I am [Your Name], an aspiring software tester with a passion for manual and automated testing. I am currently seeking opportunities to kick-start my career in the field of software testing. Despite having no professional experience, I am enthusiastic, motivated, and committed to learning and growing in the testing domain.
+Hello there! I am Kamil Jęczmionek, an aspiring software tester with a passion for manual and automated testing. I am currently seeking opportunities to kick-start my career in the field of software testing. Despite having no professional experience, I am enthusiastic, motivated, and committed to learning and growing in the testing domain.
 
 ## Skills
 
@@ -18,6 +18,6 @@ Hello there! I am [Your Name], an aspiring software tester with a passion for ma
 - **Team Player:** I work well in teams, communicate effectively, and contribute positively to the group dynamic.
 - **Passionate:** I am passionate about software testing and committed to delivering high-quality results.
 
-I am excited about the prospect of contributing to innovative projects and expanding my expertise. Please feel free to reach out to me via email at [Your Email Address] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) to discuss potential opportunities.
+I am excited about the prospect of contributing to innovative projects and expanding my expertise. Please feel free to reach out to me via email at jeczmionek.kamil@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/kamil-jeczmionek/) to discuss potential opportunities.
 
 Let's collaborate and create outstanding software together!
