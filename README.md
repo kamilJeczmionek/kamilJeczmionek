@@ -6,7 +6,7 @@ Hello there! I am Kamil Jęczmionek, an aspiring software tester with a passion 
 
 ## Skills
 
-- **Programming Languages:** I have basic knowledge of Java, enabling me to write simple automated tests using Selenium Webdriver.
+- **Programming Languages:** I have basic knowledge of Java, enabling me to write simple automated tests using Selenium WebDriver.
 - **Automation:** Familiar with the basics of Selenium Webdriver, I am eager to enhance my skills in automated testing.
 - **Databases:** I have a fundamental understanding of SQL, allowing me to perform basic database testing tasks.
 - **Version Control:** Proficient in using Git for version control and collaboration.
