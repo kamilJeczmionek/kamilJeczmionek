@@ -2,7 +2,7 @@
 
 ![Background Image](https://gist.github.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/06b3FMA.jpg)
 
-Hello there! I am Kamil Jęczmionek, an aspiring software tester with a passion for manual and automated testing. I am currently seeking opportunities to kick-start my career in the field of software testing. Despite having no professional experience, I am enthusiastic, motivated, and committed to learning and growing in the testing domain.
+Hello there! I am Kamil, an aspiring software tester with a passion for manual and automated testing. I am currently seeking opportunities to kick-start my career in the field of software testing. Despite having no professional experience, I am enthusiastic, motivated, and committed to learning and growing in the testing domain.
 
 ## Skills
 
@@ -11,7 +11,7 @@ Hello there! I am Kamil Jęczmionek, an aspiring software tester with a passion 
 - **Databases:** I have a fundamental understanding of SQL, allowing me to perform basic database testing tasks.
 - **Version Control:** Proficient in using Git for version control and collaboration.
 
-## Why Choose Me?
+## Why Me?
 
 - **Quick Learner:** I am a fast learner, always ready to acquire new skills and technologies.
 - **Detail-Oriented:** I pay attention to details, ensuring thorough and accurate testing processes.
