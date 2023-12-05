@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile!
 
-![Background Image](https://gist.github.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/06b3FMA.jpg)
-
 Hello there! I am Kamil, an aspiring software tester with a passion for manual and automated testing. I am currently seeking opportunities to kick-start my career in the field of software testing. Despite having no professional experience, I am enthusiastic, motivated, and committed to learning and growing in the testing domain.
 
 ## Skills
