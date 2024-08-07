@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello there! I am Kamil, an aspiring software tester with a passion for manual testing. I am currently seeking opportunities to kick-start my career in the field of software testing. Despite having no professional experience, I am enthusiastic, motivated, and committed to learning and growing in the testing domain.
+Hello there! I am Kamil, an engineer with over 5 years of practice in well-established company. Equipped with valuable experience related to problem-solving, analytical thinking and idea exchange. Motivated to acquiring new skills and embracing new challenges. I am currently seeking opportunities to kick-start my career in the field of software testing. Despite having no professional experience, I am enthusiastic, motivated, and committed to learning and growing in the testing domain.
 
 ## Skills
 
