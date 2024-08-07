@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile!
 
-Hello there! I am Kamil, an aspiring software tester with a passion for manual and automated testing. I am currently seeking opportunities to kick-start my career in the field of software testing. Despite having no professional experience, I am enthusiastic, motivated, and committed to learning and growing in the testing domain.
+Hello there! I am Kamil, an aspiring software tester with a passion for manual testing. I am currently seeking opportunities to kick-start my career in the field of software testing. Despite having no professional experience, I am enthusiastic, motivated, and committed to learning and growing in the testing domain.
 
 ## Skills
 
-- **Programming Languages:** I have basic knowledge of Java, enabling me to write simple automated tests using Selenium WebDriver.
+- **Programming Languages:** I have basic knowledge of Java, enabling me to write simple scripts and automated tests using Selenium WebDriver.
 - **Automation:** Familiar with the basics of Selenium Webdriver, I am eager to enhance my skills in automated testing.
 - **Databases:** I have a fundamental understanding of SQL, allowing me to perform basic database testing tasks.
 - **Version Control:** Familiar with using Git for version control and collaboration.
@@ -18,5 +18,3 @@ Hello there! I am Kamil, an aspiring software tester with a passion for manual a
 
 I am excited about the prospect of contributing to innovative projects and expanding my expertise. Please feel free to reach out to me via email at jeczmionek.kamil@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/kamil-jeczmionek/) to discuss potential opportunities.
 
-Explore my website where I share my progress in learning HTML, CSS, and JavaScript!
-**https://kamiljeczmionek.github.io/myWebsite/**
