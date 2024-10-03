@@ -3,10 +3,10 @@
 Hello there! I am Kamil, an engineer with over 5 years of practice in well-established company. Equipped with valuable experience related to problem-solving, analytical thinking and idea exchange. Motivated to acquiring new skills and embracing new challenges. I am currently seeking opportunities to kick-start my career in the field of software testing. Despite having no professional experience, I am enthusiastic, motivated, and committed to learning and growing in the testing domain.
 
 ## Skills
-
-- **Programming Languages:** I have basic knowledge of Java, enabling me to write simple scripts and automated tests using Selenium WebDriver.
+- **Testing:** Knowledge of testing processes and methodologies according to ISTQB Foundation Level guideline.
+- **Programming:** I have basic knowledge of Java, enabling me to write simple scripts and automated tests using Selenium WebDriver.
 - **Automation:** Familiar with the basics of Selenium Webdriver, I am eager to enhance my skills in automated testing.
-- **Databases:** I have a fundamental understanding of SQL, allowing me to perform basic database testing tasks.
+- **Databases:** I have a fundamental knowledge of SQL, allowing me to write slightly more advanced queries. 
 - **Version Control:** Familiar with using Git for version control and collaboration.
 
 ## About Me
