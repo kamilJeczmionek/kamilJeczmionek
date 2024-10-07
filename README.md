@@ -6,7 +6,6 @@ Hello there! I am Kamil, an engineer with over 5 years of practice in well-estab
 - **Testing:** Knowledge of testing processes and methodologies according to ISTQB Foundation Level guideline.
 - **Programming:** I have basic knowledge of Java, enabling me to write simple scripts and automated tests using Selenium WebDriver.
 - **Databases:** I have a fundamental knowledge of SQL, allowing me to write slightly more advanced queries. 
-- **Version Control:** Familiar with using Git for version control and collaboration.
 - **Automation:** Familiar with the basics of Selenium Webdriver, I am eager to enhance my skills in automated testing.
 
 ## About Me
