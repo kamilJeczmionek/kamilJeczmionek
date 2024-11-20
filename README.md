@@ -1,6 +1,6 @@
 # Witaj na moim profilu! (English version below)
 
-Cześć, mam na imię Kamil. Od prawie 6 lat pracuję jako inżynier konstruktor w jednej z największych polskich firm. Praca zespołowa i analityczne podejście do rozwiązywania problemów to moja codzienność. Zaciekawiony tematyką testowania oprogramowania, pewnego dnia postanowiłem dowiedzieć się o nim czegoś więcej. Dziś - wyposażony w wiedzę - pełen motywacji i chęci poszerzania swoich kompetencji jestem zdecydowany by zacząć moją przygodę w branży IT.
+Cześć, mam na imię Kamil. Od prawie 6 lat pracuję jako inżynier konstruktor w jednej z największych polskich firm. Praca zespołowa i analityczne podejście do rozwiązywania problemów to moja codzienność. Zaciekawiony tematyką testowania oprogramowania, pewnego dnia postanowiłem dowiedzieć się o nim czegoś więcej. Dziś - wyposażony w wiedzę - pełen motywacji i chęci poszerzania swoich kompetencji jestem zdecydowany, by zacząć moją przygodę w branży IT.
 
 Zachęcam Cię do zapoznania się z repozytoriami na moim profilu. Znajdziesz tu napisane przeze mnie przypadki testowe przeznaczone do manualnego testowania, a także testy automatyczne wykorzystujące narzędzie Selenium.
 
@@ -11,6 +11,7 @@ Zachęcam Cię do zapoznania się z repozytoriami na moim profilu. Znajdziesz tu
 - Znajomość PostgreSQL
 - Znajomość podstawowych funkcjonalności narzędzia Selenium
 - Znajomość GIT
+- Podstawy HTML oraz CSS konieczne do znajdowania lokatorów
 
 ### Kursy i certyfikaty
 - Certyfikat B2 First (FCE)
@@ -19,20 +20,21 @@ Zachęcam Cię do zapoznania się z repozytoriami na moim profilu. Znajdziesz tu
 
 # Welcome to My GitHub Profile!
 
-Hello there! I am Kamil, an engineer with almost 6 years of practice in well-established company. Equipped with valuable experience related to problem-solving, analytical thinking and idea exchange. Motivated to acquiring new skills and embracing new challenges. I am currently seeking opportunities to kick-start my career in the field of software testing. I am enthusiastic, motivated, and committed to learning and growing in the testing domain.
+Hello, my name is Kamil. I have been working as a design engineer in one of the largest Polish companies for almost 6 years. Teamwork and an analytical approach to solving problems is my everyday life. Curious about software testing, one day I decided to learn more about it. Today - equipped with knowledge - full of motivation and willingness to expand my competences, I am determined to start my adventure in the IT industry.
 
-## Skills
-- **Testing:** Knowledge of testing processes and methodologies according to ISTQB Foundation Level guideline.
-- **Programming:** I have basic knowledge of Java, enabling me to write simple scripts and automated tests using Selenium WebDriver.
-- **Databases:** I have a fundamental knowledge of SQL, allowing me to write slightly more advanced queries. 
-- **Automation:** Familiar with the basics of Selenium Webdriver, I am eager to enhance my skills in automated testing.
+I encourage you to check out the repositories on my profile. Here you will find test cases written by me intended for manual testing, as well as automatic tests using the Selenium tool.
 
-## About Me
+### Skills
+- Knowledge of testing processes and methodologies in accordance with ISTQB Foundation Level guidelines
+- Basics of programming in Java
+- Knowledge of PostgreSQL
+- Knowledge of the basic functionalities of the Selenium
+- Knowledge of GIT
+- Basics of HTML and CSS necessary to find locators
+  
+### Courses and certificates
+- B2 First Certificate (FCE)
+- Automation Tester Course (Java)
 
-- **Quick Learner:** I am a fast learner, always ready to acquire new skills and technologies.
-- **Detail-Oriented:** I pay attention to details, ensuring thorough and accurate testing processes.
-- **Team Player:** I work well in teams, communicate effectively, and contribute positively to the group dynamic.
-- **Eager to develop:** I am motivated to acquiring new skills and embracing new challenges.
-
-I am excited about the prospect of contributing to innovative projects and expanding my expertise. Please feel free to reach out to me via email at jeczmionek.kamil@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/kamil-jeczmionek/) to discuss potential opportunities.
+Please feel free to reach out to me via email at jeczmionek.kamil@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/kamil-jeczmionek/)
 
